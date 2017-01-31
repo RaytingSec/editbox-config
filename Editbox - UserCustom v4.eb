@@ -1,0 +1,27 @@
+#Editbox Eclipse Plugin Settings
+#Fri Feb 20 01:10:10 PST 2015
+HighlightOne=false
+FillGradient=false
+FillSelected=false
+RoundBox=false
+BorderColorType=1
+Name=Wock
+ExpandBox=false
+BorderDrawLine=false
+FillOnMove=false
+Alpha=0
+HighlightWidth=3
+BorderWidth=1
+HighlightColor=00ceff
+BorderColor=e1e9ff
+FillKeyModifier=
+HighlightColorType=0
+FillGradientColor=ffffff
+Builder=Java
+HighlightDrawLine=false
+FillSelectedColor=ffffff
+BorderLineStyle=1
+Colors=ffffff-f7fafc-eff5f9-e7f0f6-dfebf3-d7e6f0-cfe1ed-c7dcea-bfd7e7-b7d2e4-afcde1
+HighlightLineStyle=0
+NoBackground=false
+CirculateLevelColors=false
